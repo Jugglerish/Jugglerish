@@ -1,5 +1,3 @@
 
 ## 🔗 Links
-<a href="https://medium.com/@Vibrantish/">
-  <img align="left" src="Images/Medium.svg" alt="icon | Medium" width="21px"/>
-</a>
+[<img src="Images/medium (1).png" alt="Medium" height="50" width="50">](https://medium.com/@vibrantish)
